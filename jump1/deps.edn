@@ -1,0 +1,1 @@
+{:deps {jakarta.servlet/jakarta.servlet-api {:mvn/version "6.0.0"}}}
